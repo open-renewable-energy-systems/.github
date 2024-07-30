@@ -28,13 +28,14 @@ The Open Renewable Energy Systems (ORES) Working Group was established following
 To get involved with the ORES Working Group:
 - **Join the Working Group**: Stay updated with the latest discussions and announcements.  .
 
-    - Review the contribution guidelines to learn how to contribute to the spec.
-    - Join the mailing list [here](https://lists.lfenergy.org/g/ORES)
-    - Join the real time discussion/messaging in Signal group [here](https://signal.group/#CjQKII5SsUoNqJ2aMVK4Dam_vGiwR6gPz6H9t-Xtq4mclua0EhCaoYnoIK5Ptt8rtHNb-pfk), or take part in discussions in the [#ores-wg channel in the LF Energy Slack]( https://lfenergy.slack.com/archives/C06Q566M33L)
-    - Attend Meetings: Participate in our [regular meetings]( https://zoom-lfx.platform.linuxfoundation.org/meeting/99588239400?password=cfb16446-9247-4206-a3de-cbc32f272e81) to discuss progress and new ideas.
+    - Review the [ORES Working Group Charter wiki](https://lfenergy.org/ORES) to learn more about ORES.
+    - Join the mailing list [here](https://lists.lfenergy.org/g/ORES).
+    - Join the real time discussion/messaging in Signal group [here](https://signal.group/#CjQKII5SsUoNqJ2aMVK4Dam_vGiwR6gPz6H9t-Xtq4mclua0EhCaoYnoIK5Ptt8rtHNb-pfk), or take part in discussions in the [#ores-wg channel in the LF Energy Slack]( https://lfenergy.slack.com/archives/C06Q566M33L).
+    - Attend Meetings: Participate in ORES WG [regular zoom meetings]( https://zoom-lfx.platform.linuxfoundation.org/meeting/99588239400?password=cfb16446-9247-4206-a3de-cbc32f272e81).
 
 - **Contribute**: Check out our [Contribution Guidelines](https://github.com/open-renewable-energy-systems/ores/blob/Dev/CONTRIBUTING.md) for information on how you can contribute to the project.
-- 
+- **Repository**: Here is the [repo](https://github.com/open-renewable-energy-systems/ores).
+
 
 
 
